@@ -1,0 +1,6 @@
+{
+  "name": "GlobeTrotter - Immersive Travel Planner",
+  "description": "Intelligent travel planning with cinematic scroll-driven exploration, multi-city itineraries, budget tracking, and real-time Trip Reality Check verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
